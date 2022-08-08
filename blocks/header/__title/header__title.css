@@ -4,6 +4,6 @@
   font-weight: 600;
   align-self: center;
   margin: 0 0 0 64px;
-  width: 730px;
+  max-width: 730px;
   z-index: 2;
 }
